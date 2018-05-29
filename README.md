@@ -78,9 +78,12 @@ git log "브랜치명".."비교할 브랜치명"
 ```
 git diff "브랜치명".."브랜치명"
 ```
-#### 표로비교
+
+#### 표로 비교
 ``` git log --branches --graph --decorate --oneline ```
+
 ---
+
 ## 병합
 ### merge
 ```
